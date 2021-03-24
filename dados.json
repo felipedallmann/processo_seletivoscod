@@ -1,0 +1,34 @@
+{
+  "Contato": {
+    "Email": "contato@scod.com.br",
+    "Telefone": "+ 55 43 991338828 - +55 43 3321-2200",
+    "Endereco": "Av. Ayrton Senna da Silva, 600 – Conj. 601",
+    "Cidade": "Londrina-PR-Brasil"
+  },
+  "Informações de débito": {
+    "Debito-0": {
+      "Ano": "2005",
+      "Parcela(s)": "Única",
+      "Vencimento": "26/01/2005",
+      "Valor": "None"
+    },
+    "Debito-1": {
+      "Ano": "2020",
+      "Parcela(s)": "3",
+      "Vencimento": "23/09/2020",
+      "Valor": "R$ 120,45"
+    },
+    "Debito-2": {
+      "Ano": "2021",
+      "Parcela(s)": "1",
+      "Vencimento": "23/01/2021",
+      "Valor": "R$ 315,64"
+    },
+    "Debito-3": {
+      "Ano": "2021",
+      "Parcela(s)": "2",
+      "Vencimento": "23/02/2021",
+      "Valor": "R$ 313,08"
+    }
+  }
+}
